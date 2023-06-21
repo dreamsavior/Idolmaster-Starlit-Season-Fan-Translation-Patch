@@ -46,6 +46,9 @@ We welcome contributions from anyone interested in translating and improving the
 3.  After editing your translation with Translator++, export your translation to the "contrib" folder. You may only need to export the file that you just edited (Pay attention to the object file that is checked on the left panel before exporting).
 4.  Commit your changes and create a pull request to submit your contributions.
 
+Please refer to the organic translation marker and file notes for tracking proofread translations.
+
+
 Let's work together to make THE iDOLM@STER Starlit Season enjoyable for English-speaking fans!
 
 ## About Font Patches
