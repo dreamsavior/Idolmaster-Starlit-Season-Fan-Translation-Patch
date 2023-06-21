@@ -1,5 +1,5 @@
 # THE iDOLM@STER Starlit Season Fan Translation Project
-
+![Starlit Season Translation Project](https://github.com/dreamsavior/Idolmaster-Starlit-Season-Fan-Translation-Patch/blob/main/resources/logo.jpg?raw=true)
 
 ## What's this?
 
@@ -59,5 +59,7 @@ Translation results in English often have a greater number of characters than th
 To address this, an additional patch has been created that modifies one of the fonts in Starlit Season to be narrower and more compact. This adjustment allows the dialog box to accommodate three lines of text, compared to the original font, which can only fit two lines.
 
 You can find this font patch in the `extra-patches` folder of the project.
+
+![Text small enough that barely fit 3 lines](https://github.com/dreamsavior/Idolmaster-Starlit-Season-Fan-Translation-Patch/blob/main/resources/fit-3-lines.png?raw=true)
 
 By applying the font patch, the translated text can be displayed more effectively, providing a better reading experience for English-speaking players.
