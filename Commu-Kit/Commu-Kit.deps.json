@@ -1,0 +1,84 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Commu-Kit/1.0.0": {
+        "dependencies": {
+          "CommandLineParser": "2.9.0-preview1",
+          "CsvHelper": "27.1.1",
+          "UAssetAPI": "1.0.0.0"
+        },
+        "runtime": {
+          "Commu-Kit.dll": {}
+        }
+      },
+      "CommandLineParser/2.9.0-preview1": {
+        "runtime": {
+          "lib/netstandard2.0/CommandLine.dll": {
+            "assemblyVersion": "2.9.0.0",
+            "fileVersion": "2.9.0.0"
+          }
+        }
+      },
+      "CsvHelper/27.1.1": {
+        "runtime": {
+          "lib/net5.0/CsvHelper.dll": {
+            "assemblyVersion": "27.0.0.0",
+            "fileVersion": "27.1.1.0"
+          }
+        }
+      },
+      "UAssetAPI/1.0.0.0": {
+        "runtime": {
+          "UAssetAPI.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/13.0.0.0": {
+        "runtime": {
+          "Newtonsoft.Json.dll": {
+            "assemblyVersion": "13.0.0.0",
+            "fileVersion": "13.0.1.25517"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Commu-Kit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CommandLineParser/2.9.0-preview1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/cv6pigvbhmN1b3Y3FRf6EPHNFRtZhlScqQNrzVkTfR7DoDKdvpdbmPL7HhpNEJaTl7JMwvwojJMFjGGAr5wPg==",
+      "path": "commandlineparser/2.9.0-preview1",
+      "hashPath": "commandlineparser.2.9.0-preview1.nupkg.sha512"
+    },
+    "CsvHelper/27.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-lo5yypClBORR2XiWPRxQApaA4C2R4GVCIPVRt9HfaLxLmVQtg/KZiOYsd4luLgyOxkUatF9R0QdFQYk7Y2l0cw==",
+      "path": "csvhelper/27.1.1",
+      "hashPath": "csvhelper.27.1.1.nupkg.sha512"
+    },
+    "UAssetAPI/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/13.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,21 @@
+The scripts assume you are following similar folder structures to KingKrouch's project space on his google drive.
+To setup everything...
+
+If you have never touched the Commu-Kit before:
+1. Modify the last line in Export_EngPatch.bat to point to your StarlitSeason installation folder
+2. Run Export_UAssets.bat
+3. Translate stuff from the CSV files generated from the Commu-Kit
+4. Run Export_EngPatch.bat to compile translations
+
+
+If you have used the Commu-Kit before to export stuff or have made translations with the Commu uassets:
+1. Move all the CSVs you have modified to another location (ex: desktop)
+2. Redownload a fresh copy of the "pakchunk99-EngPatch\StarlitSeason\Content\Commu\Localize" folder and its contents
+   from KingKrouch's IM@S SS translation google drive.
+3. Completely delete that same folder on your PC
+4. Extract the contents of the downloaded copy from Google drive into the same folder that was just deleted.
+5. Modify the last line in Export_EngPatch.bat to point to your StarlitSeason installation folder
+6. Run Export_UAssets.bat
+7. Move the modified CSVs back into their respective folders and replace the ones that currently exist in there.
+8. Continue to translate stuff from the CSV files generated from the Commu-Kit or what you had before
+9. Run Export_EngPatch.bat to compile translations 
