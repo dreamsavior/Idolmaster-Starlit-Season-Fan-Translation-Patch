@@ -48,6 +48,7 @@ We welcome contributions from anyone interested in translating and improving the
 
 Please refer to the organic translation marker and file notes for tracking proofread translations.
 
+![See the notes so that our work is not overlap](https://github.com/dreamsavior/Idolmaster-Starlit-Season-Fan-Translation-Patch/blob/main/resources/track-the-changes.png?raw=true)
 
 Let's work together to make THE iDOLM@STER Starlit Season enjoyable for English-speaking fans!
 
