@@ -7,9 +7,22 @@ This is a fan translation project for THE iDOLM@STER Starlit Season (アイド�
 
 This project aims to make the game accessible to English-speaking fans by providing a translation of the text.
 
+## Objective
+The objective of this project is to deliver a **high-quality English translation that encompasses the entirety or a substantial portion of the game's text**. The aim is to facilitate easy contributions from anyone interested in enhancing the translation.
+
+The texts from the Commu and Locres sections have been fully translated using meticulously curated AI translation. Various methods have been employed to correct common AI errors and establish a reliable foundation of translated materials that can be easily adapted for proofreading. As a result, most of the time, we will **only need proofreading and a sanity check of the translations**. This approach has been proven efficient by professional translation companies and allows a broader range of individuals to contribute to the project. If you meet the following criteria, we welcome you to participate:
+
+- Possess a proficient English skills (Which is the target language of this project)
+- Have a deep understanding of the distinctive traits and personalities of IM@S characters
+- Hold a genuine appreciation for the game to participate in the project. 
+
+**While proficiency in the Japanese language would be highly beneficial, it is no longer an absolute prerequisite set in stone.**
+
+Thus, I personally believe this method will eliminate the most challenging requirement of this translation project.
+
 ## Project State
 
-All the texts have been translated using curated AI translation, except for mails and some minor events. The next step, which is currently under construction, involves carrying out the manual proofreading and fixing process for all available text. We invite everyone to contribute translations and help improve the quality of the project.
+It is important to note that the project remains a work in progress, with completion currently standing at **approximately 30%**. While the texts in the Commu and Locres sections have been **100% translated using curated AI translation** (except mails and some minor events), **not all of them have undergone the proofreading process**. Therefore, individuals who have confidence in their English skills and meet the aforementioned criteria are encouraged to join. 
 
 ## How to Set Up the Project
 
@@ -51,6 +64,7 @@ Please refer to the organic translation marker and file notes for tracking proof
 ![See the notes so that our work is not overlap](https://github.com/dreamsavior/Idolmaster-Starlit-Season-Fan-Translation-Patch/blob/main/resources/track-the-changes.png?raw=true)
 
 Let's work together to make THE iDOLM@STER Starlit Season enjoyable for English-speaking fans!
+
 
 ## About Font Patches
 
