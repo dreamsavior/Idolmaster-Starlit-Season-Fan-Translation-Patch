@@ -30,9 +30,11 @@ To set up the project, follow these steps:
 
 1.  Clone or download this repository to your computer.
 2.  Open the file `UAssetSizes.csv` with a text editor.
-3.  Use the find and replace function in the text editor to change the path to the `csv` in `pakchunk99-EngPatch` to the path on your computer.
+You will find many path refering to the csv files inside `pakchunk99-EngPatch`.
+Replace all  `E:\dreamsavior\git\Idolmaster-Starlit-Season-Fan-Translation-Patch\` with the path of this project in your computer.
+
 4.  Edit `Export_EngPatch.bat` and scroll to the bottom (around line 73 and 74).
-5.  Replace `D:\Games\StarlitSeason\StarlitSeason\Content\Paks\` with the location of the `Paks` folder of your StarlitSeason game.
+Replace `D:\Games\StarlitSeason\StarlitSeason\Content\Paks\` with the location of the `Paks` folder of your StarlitSeason game.
 
 That's all you need to do to set up the project!
 
@@ -41,8 +43,10 @@ That's all you need to do to set up the project!
 To build patches, follow these steps:
 
 1.  This patch consists of two Translator++ files: `StarlitSeason-Commu.tpp` and `StarlitSeason-UI-locres.tpp`.
-2.  You can open TPP files with Translator++. Download Translator++ for free from [https://dreamsavior.net/download/](https://dreamsavior.net/download/).
+2.  You can open TPP files with Translator++. 
+Download Translator++ for free from [https://dreamsavior.net/download/](https://dreamsavior.net/download/).
 3.  In Translator++, export your translation to a folder.
+![Export project to a folder](https://github.com/dreamsavior/Idolmaster-Starlit-Season-Fan-Translation-Patch/blob/main/resources/export-project.gif?raw=true)
 4.  Export the translations to the correct directory location:
     -   For `StarlitSeason-Commu`, export to the `pakchunk99-EngPatch` directory.
     -   For `StarlitSeason-UI-locres`, export to the directory `pakchunk99-EngPatch\StarlitSeason\Content`.
